@@ -8,7 +8,7 @@
     <link>https://hipvictor.github.io/youtube-playlist-digest-feed</link>
     <description>A nightly tech journal in your ears. Each episode walks through the videos I&#x27;m saving from YouTube — what&#x27;s new, what&#x27;s hype, what to actually try this week. Twelve minutes, read straight.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 01 May 2026 00:21:39 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 01:18:23 -0500</lastBuildDate>
     <atom:link href="https://hipvictor.github.io/youtube-playlist-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Jonathan</itunes:author>
     <itunes:summary>A nightly tech journal in your ears. Each episode walks through the videos I&#x27;m saving from YouTube — what&#x27;s new, what&#x27;s hype, what to actually try this week. Twelve minutes, read straight.</itunes:summary>
@@ -20,6 +20,16 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Daily Digest — Fri May 01, 2026</title>
+      <description><![CDATA[Good morning, Jonathan. Quiet night from your queue — just one video came through. But it's the third NotebookLM-plus-Claude video to land in your transcripts folder in about a month, which is starting to look less like a coincidence and more like a pattern worth naming. So we're going to spend the whole episode on it. The video is from a creator named Mert D, and the title is "I Combined Claude and NotebookLM, Infinite Memory."]]></description>
+      <itunes:summary>Good morning, Jonathan. Quiet night from your queue — just one video came through. But it&#x27;s the third NotebookLM-plus-Claude video to land in your transcripts folder in about a month, which is starting to look less like a coincidence and more like a pattern worth naming. So we&#x27;re going to spend the whole episode on it. The video is from a creator named Mert D, and the title is &quot;I Combined Claude and NotebookLM, Infinite Memory.&quot;</itunes:summary>
+      <pubDate>Fri, 01 May 2026 07:00:00 -0500</pubDate>
+      <guid isPermaLink="false">ec092e5172ca7989b2f58cf2931f285e</guid>
+      <enclosure url="https://hipvictor.github.io/youtube-playlist-digest-feed/episodes/2026-05-01%20Daily%20Digest.mp3" length="3862725" type="audio/mpeg"/>
+      <itunes:duration>07:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Digest — Thu Apr 30, 2026</title>
       <description><![CDATA[Good morning, Jonathan. Tonight we caught two videos from your queue. One is a quick under-nine-minute walkthrough of generating motion graphics from text prompts inside Claude. The other is forty minutes with Anthropic's Cowork design lead, Jenny Wen, and it's the more interesting of the two by a wide margin. Let's get into it.
