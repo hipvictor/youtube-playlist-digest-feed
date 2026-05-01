@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <title>Jonathan&#x27;s Tech Journal</title>
+    <link>https://hipvictor.github.io/youtube-playlist-digest-feed</link>
+    <description>A nightly tech journal in your ears. Each episode walks through the videos I&#x27;m saving from YouTube — what&#x27;s new, what&#x27;s hype, what to actually try this week. Twelve minutes, read straight.</description>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 01 May 2026 00:21:39 -0500</lastBuildDate>
+    <atom:link href="https://hipvictor.github.io/youtube-playlist-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>Jonathan</itunes:author>
+    <itunes:summary>A nightly tech journal in your ears. Each episode walks through the videos I&#x27;m saving from YouTube — what&#x27;s new, what&#x27;s hype, what to actually try this week. Twelve minutes, read straight.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Jonathan</itunes:name>
+      <itunes:email>wtntmcvmvt@privaterelay.appleid.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://hipvictor.github.io/youtube-playlist-digest-feed/cover.png"/>
+    <itunes:category text="Education"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Daily Digest — Thu Apr 30, 2026</title>
+      <description><![CDATA[Good morning, Jonathan. Tonight we caught two videos from your queue. One is a quick under-nine-minute walkthrough of generating motion graphics from text prompts inside Claude. The other is forty minutes with Anthropic's Cowork design lead, Jenny Wen, and it's the more interesting of the two by a wide margin. Let's get into it.
+
+[music]]]></description>
+      <itunes:summary>Good morning, Jonathan. Tonight we caught two videos from your queue. One is a quick under-nine-minute walkthrough of generating motion graphics from text prompts inside Claude. The other is forty minutes with Anthropic&#x27;s Cowork design lead, Jenny Wen, and it&#x27;s the more interesting of the two by a wide margin. Let&#x27;s get into it.
+
+[music]</itunes:summary>
+      <pubDate>Thu, 30 Apr 2026 07:00:00 -0500</pubDate>
+      <guid isPermaLink="false">c8058a09cd5d36dd4bd44e51328c2cd3</guid>
+      <enclosure url="https://hipvictor.github.io/youtube-playlist-digest-feed/episodes/2026-04-30%20Daily%20Digest.mp3" length="4523373" type="audio/mpeg"/>
+      <itunes:duration>08:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
