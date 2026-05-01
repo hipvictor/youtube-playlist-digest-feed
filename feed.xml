@@ -8,7 +8,7 @@
     <link>https://hipvictor.github.io/youtube-playlist-digest-feed</link>
     <description>A nightly tech journal in your ears. Each episode walks through the videos I&#x27;m saving from YouTube — what&#x27;s new, what&#x27;s hype, what to actually try this week. Twelve minutes, read straight.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 01 May 2026 01:18:23 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 08:14:36 -0500</lastBuildDate>
     <atom:link href="https://hipvictor.github.io/youtube-playlist-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Jonathan</itunes:author>
     <itunes:summary>A nightly tech journal in your ears. Each episode walks through the videos I&#x27;m saving from YouTube — what&#x27;s new, what&#x27;s hype, what to actually try this week. Twelve minutes, read straight.</itunes:summary>
@@ -20,6 +20,20 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Daily Digest — Backlog Catch-up — Fri May 01, 2026</title>
+      <description><![CDATA[Good morning, Jonathan. This one's the catch-up edition. We grabbed six videos from the backlog of your queue — the ones the morning test had marked as silent-seen and skipped. Strongest material is in the middle, so don't bail early. We're going to give the high-signal ones full treatment and breeze past the two that aren't really for you.
+
+[music]]]></description>
+      <itunes:summary>Good morning, Jonathan. This one&#x27;s the catch-up edition. We grabbed six videos from the backlog of your queue — the ones the morning test had marked as silent-seen and skipped. Strongest material is in the middle, so don&#x27;t bail early. We&#x27;re going to give the high-signal ones full treatment and breeze past the two that aren&#x27;t really for you.
+
+[music]</itunes:summary>
+      <pubDate>Fri, 01 May 2026 07:00:00 -0500</pubDate>
+      <guid isPermaLink="false">5f1ddf874e9c9d574c9435a53e0e37ef</guid>
+      <enclosure url="https://hipvictor.github.io/youtube-playlist-digest-feed/episodes/2026-05-01%20Daily%20Digest%20—%20Backlog%20Catch-up.mp3" length="4950693" type="audio/mpeg"/>
+      <itunes:duration>09:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Digest — Fri May 01, 2026</title>
       <description><![CDATA[Good morning, Jonathan. Quiet night from your queue — just one video came through. But it's the third NotebookLM-plus-Claude video to land in your transcripts folder in about a month, which is starting to look less like a coincidence and more like a pattern worth naming. So we're going to spend the whole episode on it. The video is from a creator named Mert D, and the title is "I Combined Claude and NotebookLM, Infinite Memory."]]></description>
