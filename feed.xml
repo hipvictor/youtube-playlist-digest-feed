@@ -8,7 +8,7 @@
     <link>https://hipvictor.github.io/youtube-playlist-digest-feed</link>
     <description>A nightly tech journal in your ears. Each episode walks through the videos I&#x27;m saving from YouTube — what&#x27;s new, what&#x27;s hype, what to actually try this week. Twelve minutes, read straight.</description>
     <language>en-US</language>
-    <lastBuildDate>Fri, 01 May 2026 08:14:36 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 10:37:09 -0500</lastBuildDate>
     <atom:link href="https://hipvictor.github.io/youtube-playlist-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Jonathan</itunes:author>
     <itunes:summary>A nightly tech journal in your ears. Each episode walks through the videos I&#x27;m saving from YouTube — what&#x27;s new, what&#x27;s hype, what to actually try this week. Twelve minutes, read straight.</itunes:summary>
@@ -20,6 +20,24 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Daily Digest — Sat May 02, 2026</title>
+      <description><![CDATA[Good morning, Jonathan. Tonight we caught four videos from your Claude and AI workflow queue. Two of them you should act on this week — one is a ten-minute setup, one is a single command in Claude Code. Let's get into it.
+
+[music]
+
+First up: Soroosh Hedayati, a YouTuber who's been methodically building a system to let Claude produce his videos end-to-end. This one's specifically about video editing in Premiere Pro.]]></description>
+      <itunes:summary>Good morning, Jonathan. Tonight we caught four videos from your Claude and AI workflow queue. Two of them you should act on this week — one is a ten-minute setup, one is a single command in Claude Code. Let&#x27;s get into it.
+
+[music]
+
+First up: Soroosh Hedayati, a YouTuber who&#x27;s been methodically building a system to let Claude produce his videos end-to-end. This one&#x27;s specifically about video editing in Premiere Pro.</itunes:summary>
+      <pubDate>Sat, 02 May 2026 07:00:00 -0500</pubDate>
+      <guid isPermaLink="false">efc70d4699ed5f654d72233fcc06453b</guid>
+      <enclosure url="https://hipvictor.github.io/youtube-playlist-digest-feed/episodes/2026-05-02%20Daily%20Digest.mp3" length="4966461" type="audio/mpeg"/>
+      <itunes:duration>09:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Digest — Backlog Catch-up — Fri May 01, 2026</title>
       <description><![CDATA[Good morning, Jonathan. This one's the catch-up edition. We grabbed six videos from the backlog of your queue — the ones the morning test had marked as silent-seen and skipped. Strongest material is in the middle, so don't bail early. We're going to give the high-signal ones full treatment and breeze past the two that aren't really for you.
