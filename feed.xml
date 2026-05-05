@@ -8,7 +8,7 @@
     <link>https://hipvictor.github.io/youtube-playlist-digest-feed</link>
     <description>A nightly tech journal in your ears. Each episode walks through the videos I&#x27;m saving from YouTube — what&#x27;s new, what&#x27;s hype, what to actually try this week. Twelve minutes, read straight.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 04 May 2026 08:48:23 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 08:24:39 -0500</lastBuildDate>
     <atom:link href="https://hipvictor.github.io/youtube-playlist-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Jonathan</itunes:author>
     <itunes:summary>A nightly tech journal in your ears. Each episode walks through the videos I&#x27;m saving from YouTube — what&#x27;s new, what&#x27;s hype, what to actually try this week. Twelve minutes, read straight.</itunes:summary>
@@ -20,6 +20,24 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Daily Digest — Tue May 05, 2026</title>
+      <description><![CDATA[Good morning, Jonathan. Tonight we caught two videos from your queue. One is a tight twelve-minute framework you can apply to your prompts today — genuinely useful, not hype. The other is a longer tutorial on unlocking image and video generation inside Claude Cowork, and while the marketing angle isn't yours, the church-comms application is worth your time. Let's get into it.
+
+[music]
+
+The first video is from Dylan Davis, and the title is a little dramatic, but the idea holds up.]]></description>
+      <itunes:summary>Good morning, Jonathan. Tonight we caught two videos from your queue. One is a tight twelve-minute framework you can apply to your prompts today — genuinely useful, not hype. The other is a longer tutorial on unlocking image and video generation inside Claude Cowork, and while the marketing angle isn&#x27;t yours, the church-comms application is worth your time. Let&#x27;s get into it.
+
+[music]
+
+The first video is from Dylan Davis, and the title is a little dramatic, but the idea holds up.</itunes:summary>
+      <pubDate>Tue, 05 May 2026 07:00:00 -0500</pubDate>
+      <guid isPermaLink="false">4352ac4150f7869375e774834b07e055</guid>
+      <enclosure url="https://hipvictor.github.io/youtube-playlist-digest-feed/episodes/2026-05-05%20Daily%20Digest.mp3" length="4341141" type="audio/mpeg"/>
+      <itunes:duration>08:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Digest — Mon May 04, 2026</title>
       <description><![CDATA[Good morning, Jonathan. Four videos caught tonight from your Claude and AI workflow playlist. Two of them are genuinely worth your morning attention — one has a concrete install recommendation, and one has a URL trick you can use within the next ten minutes. Let's get into it.
