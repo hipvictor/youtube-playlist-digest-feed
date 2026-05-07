@@ -8,7 +8,7 @@
     <link>https://hipvictor.github.io/youtube-playlist-digest-feed</link>
     <description>A nightly tech journal in your ears. Each episode walks through the videos I&#x27;m saving from YouTube — what&#x27;s new, what&#x27;s hype, what to actually try this week. Twelve minutes, read straight.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 06 May 2026 11:39:02 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 06:54:48 -0500</lastBuildDate>
     <atom:link href="https://hipvictor.github.io/youtube-playlist-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Jonathan</itunes:author>
     <itunes:summary>A nightly tech journal in your ears. Each episode walks through the videos I&#x27;m saving from YouTube — what&#x27;s new, what&#x27;s hype, what to actually try this week. Twelve minutes, read straight.</itunes:summary>
@@ -20,6 +20,16 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Daily Digest — Thu May 07, 2026</title>
+      <description><![CDATA[Good morning, Jonathan. Tonight we caught four videos from your Claude and AI workflow queue. Two of them are actually worth your full attention, one is useful to file away, and one you can probably skip for yourself — though it's a solid "start here" resource to send someone else. The one I want you to pay attention to first is the session limits news, because it affects your life right now, today, before you even finish your coffee.]]></description>
+      <itunes:summary>Good morning, Jonathan. Tonight we caught four videos from your Claude and AI workflow queue. Two of them are actually worth your full attention, one is useful to file away, and one you can probably skip for yourself — though it&#x27;s a solid &quot;start here&quot; resource to send someone else. The one I want you to pay attention to first is the session limits news, because it affects your life right now, today, before you even finish your coffee.</itunes:summary>
+      <pubDate>Thu, 07 May 2026 07:00:00 -0500</pubDate>
+      <guid isPermaLink="false">c73a98933f3ce2ede82982347ac32d72</guid>
+      <enclosure url="https://hipvictor.github.io/youtube-playlist-digest-feed/episodes/2026-05-07%20Daily%20Digest.mp3" length="5842461" type="audio/mpeg"/>
+      <itunes:duration>10:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Digest — Wed May 06, 2026</title>
       <description><![CDATA[Good morning, Jonathan. Tonight we caught three videos from your queue. Two of them are genuinely worth your attention — one of those is probably the most practically useful thing your playlist has surfaced in a while. The other one is a quick stop. Let's get into it.
