@@ -8,7 +8,7 @@
     <link>https://hipvictor.github.io/youtube-playlist-digest-feed</link>
     <description>A nightly tech journal in your ears. Each episode walks through the videos I&#x27;m saving from YouTube — what&#x27;s new, what&#x27;s hype, what to actually try this week. Twelve minutes, read straight.</description>
     <language>en-US</language>
-    <lastBuildDate>Sun, 10 May 2026 10:10:54 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 10:09:18 -0500</lastBuildDate>
     <atom:link href="https://hipvictor.github.io/youtube-playlist-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Jonathan</itunes:author>
     <itunes:summary>A nightly tech journal in your ears. Each episode walks through the videos I&#x27;m saving from YouTube — what&#x27;s new, what&#x27;s hype, what to actually try this week. Twelve minutes, read straight.</itunes:summary>
@@ -20,6 +20,20 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Daily Digest — Wed May 13, 2026</title>
+      <description><![CDATA[Good morning, Jonathan. Two videos from your queue tonight, both from Nate Herk, both dropped on the same day. One is a full strategic map of every Claude level — genuinely useful even if you think you've seen it all. The other is a quick tactical update on something new in Claude Code that you'll probably use the moment you hear about it. Let's go.
+
+[music]]]></description>
+      <itunes:summary>Good morning, Jonathan. Two videos from your queue tonight, both from Nate Herk, both dropped on the same day. One is a full strategic map of every Claude level — genuinely useful even if you think you&#x27;ve seen it all. The other is a quick tactical update on something new in Claude Code that you&#x27;ll probably use the moment you hear about it. Let&#x27;s go.
+
+[music]</itunes:summary>
+      <pubDate>Wed, 13 May 2026 07:00:00 -0500</pubDate>
+      <guid isPermaLink="false">6131e7bb90df0566ee5ad51ca2dac0aa</guid>
+      <enclosure url="https://hipvictor.github.io/youtube-playlist-digest-feed/episodes/2026-05-13%20Daily%20Digest.mp3" length="4663989" type="audio/mpeg"/>
+      <itunes:duration>08:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Digest — Sun May 10, 2026</title>
       <description><![CDATA[Good morning, Jonathan. Two videos from your queue tonight, both published yesterday, and honestly they pair surprisingly well. One is about making your AI tools leaner at the interface level — fewer tokens, cleaner output. The other is about keeping your AI memory lean and local. Two sides of the same coin, and there are a couple of concrete things worth trying this week.
