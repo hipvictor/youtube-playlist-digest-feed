@@ -8,7 +8,7 @@
     <link>https://hipvictor.github.io/youtube-playlist-digest-feed</link>
     <description>A nightly tech journal in your ears. Each episode walks through the videos I&#x27;m saving from YouTube — what&#x27;s new, what&#x27;s hype, what to actually try this week. Twelve minutes, read straight.</description>
     <language>en-US</language>
-    <lastBuildDate>Sat, 16 May 2026 11:42:08 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 23:40:23 -0500</lastBuildDate>
     <atom:link href="https://hipvictor.github.io/youtube-playlist-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Jonathan</itunes:author>
     <itunes:summary>A nightly tech journal in your ears. Each episode walks through the videos I&#x27;m saving from YouTube — what&#x27;s new, what&#x27;s hype, what to actually try this week. Twelve minutes, read straight.</itunes:summary>
@@ -20,6 +20,24 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Daily Digest — Sun May 17, 2026</title>
+      <description><![CDATA[Good morning, Jonathan. One video from your queue tonight — and it's a short one. Nine minutes from Tom at ICOR. The title is a little breathless, but the actual idea inside it is genuinely useful, and I want to make sure you don't scroll past the one piece that could actually change something in your day.
+
+[music]
+
+The title sounds like a big reveal. It's not. What this video actually is: a five-minute iPhone tutorial on building a Shortcuts automation that records audio, saves it to a Dropbox folder, and lets Claude transcribe and file it later.]]></description>
+      <itunes:summary>Good morning, Jonathan. One video from your queue tonight — and it&#x27;s a short one. Nine minutes from Tom at ICOR. The title is a little breathless, but the actual idea inside it is genuinely useful, and I want to make sure you don&#x27;t scroll past the one piece that could actually change something in your day.
+
+[music]
+
+The title sounds like a big reveal. It&#x27;s not. What this video actually is: a five-minute iPhone tutorial on building a Shortcuts automation that records audio, saves it to a Dropbox folder, and lets Claude transcribe and file it later.</itunes:summary>
+      <pubDate>Sun, 17 May 2026 07:00:00 -0500</pubDate>
+      <guid isPermaLink="false">d8e5a64514b4835922cff77b61ae8817</guid>
+      <enclosure url="https://hipvictor.github.io/youtube-playlist-digest-feed/episodes/2026-05-17%20Daily%20Digest.mp3" length="3925245" type="audio/mpeg"/>
+      <itunes:duration>07:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Digest — Sat May 16, 2026</title>
       <description><![CDATA[Good morning, Jonathan. Tonight we caught two videos from your queue — and they're unusually well-matched. One is about how Claude Code's new slash-goal command lets you define a task and walk away. The other is about why the way you retrieve data for agents matters more than which database you pick. Both videos are making the same argument in different rooms. Let's dig in.
