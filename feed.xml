@@ -8,7 +8,7 @@
     <link>https://hipvictor.github.io/youtube-playlist-digest-feed</link>
     <description>A nightly tech journal in your ears. Each episode walks through the videos I&#x27;m saving from YouTube — what&#x27;s new, what&#x27;s hype, what to actually try this week. Twelve minutes, read straight.</description>
     <language>en-US</language>
-    <lastBuildDate>Mon, 18 May 2026 07:17:47 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 15:45:59 -0500</lastBuildDate>
     <atom:link href="https://hipvictor.github.io/youtube-playlist-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Jonathan</itunes:author>
     <itunes:summary>A nightly tech journal in your ears. Each episode walks through the videos I&#x27;m saving from YouTube — what&#x27;s new, what&#x27;s hype, what to actually try this week. Twelve minutes, read straight.</itunes:summary>
@@ -20,6 +20,28 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Daily Digest — Thu May 21, 2026</title>
+      <description><![CDATA[*Target: ~12 minutes / ~1800 words. Voice: af_bella.*
+
+---
+
+Good morning, Jonathan. Eight videos in the queue tonight — a bigger batch than usual. Three of them are genuinely worth your full attention, three are worth a few minutes each, and two are mostly keep-an-eye-on material. The standout is a short ten-minute video about Karpathy's CLAUDE.md skill that has an idea you can actually use today. Let's get into it.
+
+[music]]]></description>
+      <itunes:summary>*Target: ~12 minutes / ~1800 words. Voice: af_bella.*
+
+---
+
+Good morning, Jonathan. Eight videos in the queue tonight — a bigger batch than usual. Three of them are genuinely worth your full attention, three are worth a few minutes each, and two are mostly keep-an-eye-on material. The standout is a short ten-minute video about Karpathy&#x27;s CLAUDE.md skill that has an idea you can actually use today. Let&#x27;s get into it.
+
+[music]</itunes:summary>
+      <pubDate>Thu, 21 May 2026 07:00:00 -0500</pubDate>
+      <guid isPermaLink="false">3225b699ffdb098485bf123eb6c4412f</guid>
+      <enclosure url="https://hipvictor.github.io/youtube-playlist-digest-feed/episodes/2026-05-21%20Daily%20Digest.mp3" length="6880005" type="audio/mpeg"/>
+      <itunes:duration>12:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Digest — Mon May 18, 2026</title>
       <description><![CDATA[Good morning, Jonathan. Tonight we caught seven videos from your playlist — and they're all saying the same thing from different angles: stop picking sides and use Claude and Codex together. There's one billing-change item that's actually time-sensitive, one pricing insight that could double your effective plan value, and a conceptual frame that validates everything you've built in your Cowork system. Let's get into it.]]></description>
