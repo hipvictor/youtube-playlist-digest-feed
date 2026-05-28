@@ -8,7 +8,7 @@
     <link>https://hipvictor.github.io/youtube-playlist-digest-feed</link>
     <description>A nightly tech journal in your ears. Each episode walks through the videos I&#x27;m saving from YouTube — what&#x27;s new, what&#x27;s hype, what to actually try this week. Twelve minutes, read straight.</description>
     <language>en-US</language>
-    <lastBuildDate>Thu, 21 May 2026 15:45:59 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 11:41:53 -0500</lastBuildDate>
     <atom:link href="https://hipvictor.github.io/youtube-playlist-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Jonathan</itunes:author>
     <itunes:summary>A nightly tech journal in your ears. Each episode walks through the videos I&#x27;m saving from YouTube — what&#x27;s new, what&#x27;s hype, what to actually try this week. Twelve minutes, read straight.</itunes:summary>
@@ -20,6 +20,20 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Daily Digest — Thu May 28, 2026</title>
+      <description><![CDATA[Good morning, Jonathan. Tonight we caught eight videos from your queue, and they're all circling the same question: do you need Hermes, or do you just need to build Hermes's best ideas into Claude Code? I'll give you the verdict at the end. But first — the video you actually need to act on this week is the one about memory systems. Stick around.
+
+[music]]]></description>
+      <itunes:summary>Good morning, Jonathan. Tonight we caught eight videos from your queue, and they&#x27;re all circling the same question: do you need Hermes, or do you just need to build Hermes&#x27;s best ideas into Claude Code? I&#x27;ll give you the verdict at the end. But first — the video you actually need to act on this week is the one about memory systems. Stick around.
+
+[music]</itunes:summary>
+      <pubDate>Thu, 28 May 2026 07:00:00 -0500</pubDate>
+      <guid isPermaLink="false">5ef856e46ef05e2521496b0072d1eff7</guid>
+      <enclosure url="https://hipvictor.github.io/youtube-playlist-digest-feed/episodes/2026-05-28%20Daily%20Digest.mp3" length="5731125" type="audio/mpeg"/>
+      <itunes:duration>10:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Digest — Thu May 21, 2026</title>
       <description><![CDATA[*Target: ~12 minutes / ~1800 words. Voice: af_bella.*
