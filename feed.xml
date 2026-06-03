@@ -8,7 +8,7 @@
     <link>https://hipvictor.github.io/youtube-playlist-digest-feed</link>
     <description>A nightly tech journal in your ears. Each episode walks through the videos I&#x27;m saving from YouTube — what&#x27;s new, what&#x27;s hype, what to actually try this week. Twelve minutes, read straight.</description>
     <language>en-US</language>
-    <lastBuildDate>Tue, 02 Jun 2026 03:15:46 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 03:14:19 -0500</lastBuildDate>
     <atom:link href="https://hipvictor.github.io/youtube-playlist-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Jonathan</itunes:author>
     <itunes:summary>A nightly tech journal in your ears. Each episode walks through the videos I&#x27;m saving from YouTube — what&#x27;s new, what&#x27;s hype, what to actually try this week. Twelve minutes, read straight.</itunes:summary>
@@ -20,6 +20,20 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Daily Digest — Wed Jun 03, 2026</title>
+      <description><![CDATA[Good morning, Jonathan. Tonight we caught eight videos from your Claude and AI workflow playlist. Most of them cluster around a single question: how do you actually manage Claude sessions without burning through your limits or losing your mind? We've got two videos tonight that answer that question directly, one that gives you the architecture behind it all, and a few others worth knowing about. Let's get into it.
+
+[music]]]></description>
+      <itunes:summary>Good morning, Jonathan. Tonight we caught eight videos from your Claude and AI workflow playlist. Most of them cluster around a single question: how do you actually manage Claude sessions without burning through your limits or losing your mind? We&#x27;ve got two videos tonight that answer that question directly, one that gives you the architecture behind it all, and a few others worth knowing about. Let&#x27;s get into it.
+
+[music]</itunes:summary>
+      <pubDate>Wed, 03 Jun 2026 07:00:00 -0500</pubDate>
+      <guid isPermaLink="false">c3e88189de4ccc3b446e611093a8f747</guid>
+      <enclosure url="https://hipvictor.github.io/youtube-playlist-digest-feed/episodes/2026-06-03%20Daily%20Digest.mp3" length="7346181" type="audio/mpeg"/>
+      <itunes:duration>13:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Digest — Tue Jun 02, 2026</title>
       <description><![CDATA[Good morning, Jonathan. Tonight your queue delivered a wave — eight videos, all variations on the same big question: can Claude actually edit your videos for you? The short answer is yes, with important asterisks. The longer answer is tonight's episode. We've got a clever hack that writes CapCut projects from scratch, a framework that explains how to turn any AI editing session into a self-improving skill, and a Lua scripting trick for DaVinci that nobody's talking about yet. Let's go.]]></description>
