@@ -8,7 +8,7 @@
     <link>https://hipvictor.github.io/youtube-playlist-digest-feed</link>
     <description>A nightly tech journal in your ears. Each episode walks through the videos I&#x27;m saving from YouTube — what&#x27;s new, what&#x27;s hype, what to actually try this week. Twelve minutes, read straight.</description>
     <language>en-US</language>
-    <lastBuildDate>Wed, 03 Jun 2026 03:14:19 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 10:09:56 -0500</lastBuildDate>
     <atom:link href="https://hipvictor.github.io/youtube-playlist-digest-feed/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Jonathan</itunes:author>
     <itunes:summary>A nightly tech journal in your ears. Each episode walks through the videos I&#x27;m saving from YouTube — what&#x27;s new, what&#x27;s hype, what to actually try this week. Twelve minutes, read straight.</itunes:summary>
@@ -20,6 +20,20 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Daily Digest — Mon Jun 08, 2026</title>
+      <description><![CDATA[Good morning, Jonathan. Eight videos caught in the queue tonight, and they form a surprisingly coherent story. This is essentially Hermes Week — five of the eight are about Hermes Agent from five different angles. But one video cuts through all of it and tells you what you actually need to know. We'll get there. Let's go.
+
+[music]]]></description>
+      <itunes:summary>Good morning, Jonathan. Eight videos caught in the queue tonight, and they form a surprisingly coherent story. This is essentially Hermes Week — five of the eight are about Hermes Agent from five different angles. But one video cuts through all of it and tells you what you actually need to know. We&#x27;ll get there. Let&#x27;s go.
+
+[music]</itunes:summary>
+      <pubDate>Mon, 08 Jun 2026 07:00:00 -0500</pubDate>
+      <guid isPermaLink="false">8376cf5ea4ac72ae04bb91ba4f24bba0</guid>
+      <enclosure url="https://hipvictor.github.io/youtube-playlist-digest-feed/episodes/2026-06-08%20Daily%20Digest.mp3" length="6863421" type="audio/mpeg"/>
+      <itunes:duration>12:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Digest — Wed Jun 03, 2026</title>
       <description><![CDATA[Good morning, Jonathan. Tonight we caught eight videos from your Claude and AI workflow playlist. Most of them cluster around a single question: how do you actually manage Claude sessions without burning through your limits or losing your mind? We've got two videos tonight that answer that question directly, one that gives you the architecture behind it all, and a few others worth knowing about. Let's get into it.
